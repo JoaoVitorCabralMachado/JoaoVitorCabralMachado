@@ -1,4 +1,4 @@
 Ola sou Joao Vitor 
 tenho 15 anos 
-estudante dO CEMAP
+estudante do CEMAP
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
